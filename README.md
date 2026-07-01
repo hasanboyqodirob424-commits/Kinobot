@@ -1,0 +1,2 @@
+# Kinobot
+Kino bot
