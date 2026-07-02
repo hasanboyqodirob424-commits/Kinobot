@@ -6,7 +6,7 @@ from flask import Flask
 from threading import Thread
 
 # Sizning bot tokeningiz va ma'lumotlaringiz muvaffaqiyatli joylandi!
-BOT_TOKEN = "8718031056:AAFUdaSpf3aKb7FnjfGmNosfCifMbvhVykQ"
+BOT_TOKEN = "8718031056:AAG48_k50vWlRUSF0l3UGNU-fA2DIcKwexc"
 ADMIN_ID = 7677636892
 ADMIN_USERNAME = "qodirov_7o7"
 
